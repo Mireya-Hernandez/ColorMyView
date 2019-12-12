@@ -3,7 +3,7 @@
 # Project Personal Project App 3
 For this Junior Fall Semeter of College I wanted to focus on Android Development. I created this app with the help of the Uudacity course "Developing Android Apps with Kotlin". It is a simple relaxing game application that gives the users to tap on the screen anf buttons to see the color of text boxes change.
 # Demonstration
-![Demo](https://github.com/Mireya-Hernandez/AboutMe/blob/master/Omr2eDV6Cs.gif)
+![Demo](https://github.com/Mireya-Hernandez/ColorMyView/blob/master/Xd70lpnnyb.gif)
 
 # Getting Started
 Begin by downloading the zip file or clone the repository.
