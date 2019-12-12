@@ -83,12 +83,12 @@
         android:id="@+id/label_text"
         android:layout_width="78dp"
         android:layout_height="0dp"
-        android:layout_marginStart="84dp"
+        android:layout_marginStart="44dp"
         android:fontFamily="@font/roboto_thin"
         android:text="@string/How_to_Play"
         android:textSize="24sp"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="349dp" />
+        tools:layout_editor_absoluteY="375dp" />
 
     <TextView
         android:id="@+id/textView7"
@@ -134,5 +134,15 @@
         app:layout_constraintStart_toEndOf="@+id/red_button"
         app:layout_constraintTop_toBottomOf="@+id/textView7"
         app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/text_box_six"
+        style="@style/WhiteBox"
+        android:layout_width="143dp"
+        android:layout_height="78dp"
+        android:layout_marginStart="36dp"
+        android:text="@string/I_am_doing_okay"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tex_box_two" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
