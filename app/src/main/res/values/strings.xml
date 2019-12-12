@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ColorMyView</string>
+    <string name="box_one" translatable="false">Welcome</string>
+    <string name="box_two">Hello, How are You?</string>
+    <string name="box_three">Good</string>
+    <string name="box_four">Great</string>
+    <string name="box_five">Amazing</string>
+    <string name="How_to_Play">Play</string>
+    <string name="tap_the_screen_and_buttons">Tap the screen and buttons</string>
+    <string name="red_button">Red</string>
+    <string name="yellow_button">Yellow</string>
+    <string name="green_button">Green</string>
+</resources>
